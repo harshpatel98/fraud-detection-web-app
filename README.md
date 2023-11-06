@@ -3,7 +3,10 @@
 ## Technologies Used
 * Backend: Flask framework, Python
 * Frontend: React framework, HTML, CSS, JavaScript
-
+https://docs.google.com/document/d/1_mGNO3pTLn225nSeM8tHhO13KYV7oOBrVL7hGLCkmrk/edit?usp=sharing
+## Planning
+* Team plan for Web app [Click here](https://docs.google.com/document/d/1_mGNO3pTLn225nSeM8tHhO13KYV7oOBrVL7hGLCkmrk/edit?usp=sharing)
+* [Backend tests](https://docs.google.com/spreadsheets/d/16emlc55zjE4TGib5xmlMd9mkXfXzB6muUJmdkT78vkA/edit?usp=sharing)
 ## Getting started
 1.Install libraries first:
 
